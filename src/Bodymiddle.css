@@ -1,0 +1,19 @@
+.bodymiddle___container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bodymiddle_ {
+    display: flex;
+    flex-direction: column;
+}
+
+.bodymiddle_ p {
+    font-family: "Segoe UI Historic";
+    font-weight: normal;
+    font-size: 17px;
+    text-align: left;
+    color: #bfc519;
+    margin-top: auto;
+}

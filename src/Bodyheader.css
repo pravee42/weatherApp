@@ -1,0 +1,25 @@
+.bodyheader__container {
+    text-align: initial;
+    margin: 10px 0 0 10px;
+    display: flex;
+    place-items: center;
+    justify-content: space-evenly;
+}
+
+.bodyheader__condition {
+    text-align: center;
+    font-family: Rockwell;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+
+.bodyheader__temperature {
+    font-family: "Script MT";
+    font-weight: bold;
+    font-size: 44px;
+    text-align: left;
+    color: #bfc519;
+}

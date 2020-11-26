@@ -1,0 +1,21 @@
+.footer__container p{
+    font-family: "Segoe UI Historic";
+    font-weight: normal;
+    font-size: 17px;
+    text-align: left;
+    color: #fff;
+    margin: 10px 0 10px 10px;
+}
+
+
+.footer__icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.footer__icons img {
+    width: 35px;
+}
+

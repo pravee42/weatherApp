@@ -1,0 +1,56 @@
+.weather__title {
+    padding: 10px;
+    font-family: Roboto;
+    font-size: 28px;
+    border-bottom: solid;
+    top: 10px;
+    position: absolute;
+    width: 330px;
+}
+
+.container {
+    border: solid;
+    width: 350px;
+    height: 500px;
+    justify-content: center;
+    background-color:#1babbe;
+    display: flex;
+    flex-direction: column;
+}
+
+.weather__location {
+    place-self: center;
+    height: 70px;
+    border: none;
+    border-radius: 10px 10px 0 0;
+    width: 300px;
+    top: -30px;
+    position: relative;
+    background-color: #00000054;
+    color: chartreuse;
+}
+
+.weather__input {
+    top: -10px;
+    position: relative;
+}
+
+.weather__input > input {
+    border: none;
+    padding: 3px;
+    outline: none;
+}
+
+.weather__submit {
+    border: none;
+    padding: 3px;
+    cursor: pointer;
+    background-color: crimson;
+    margin-left: 10px;
+    outline: none;
+}
+
+.weather__weatherdata {
+    top: 50px;
+    position: relative;
+}
