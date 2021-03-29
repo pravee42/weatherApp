@@ -7,7 +7,7 @@ export default class Header extends Component {
         return (
             <div className="header__container">
                 <div className="header__title">
-                    <p>Weather</p>
+                    <p>Weather app</p>
                 </div>
                 <div className="header__logo">
                     <svg width={68.727} height={63.497} viewBox="0 0 68.727 63.497">
